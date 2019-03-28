@@ -3,6 +3,12 @@ Escrevo esse cogido para fins de estudos.
 
 Contempla uma pagina inicial, conexão sql, exibição de dados  e um banco de dados para teste.
 
+## preview 
+
+![run](run.png)
+
+![home](home.png)
+
 ## Pré-Requisitos:
 
  * node : https://nodejs.org/en/download/
